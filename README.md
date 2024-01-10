@@ -1,12 +1,7 @@
 # PROJECT LINK HERE !!!
-LINK WİLL BE PROVIDED.
-# API Base URLs
+https://react-work-disribution.netlify.app/
 
-## https://tutorials-api-cw.herokuapp.com/api/tutorials
 
-## https://axios-example-cw.herokuapp.com/api/tutorials
-
-## https://cw-axios-example.herokuapp.com/api/tutorials
 
 ### API ENDPOINTS
 
